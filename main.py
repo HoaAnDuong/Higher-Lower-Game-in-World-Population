@@ -9,8 +9,9 @@ def HigherLowerGame():
     score = 0
 
     print("Welcome to Higher Lower game!!!")
-    print("You will be given you a country's population(in 2022) and another country name. Your mission is guessed if that country's population is higher or lower than given one. ")
-    print("If you guessed right, I'll show that country's population(in 2022) and give you another one to guess")
+    print("You will be given you a country's population(in 2022) and another country name.")
+    print("Your mission is guessed if that country's population is higher or lower than given one. ")
+    print("If you guessed right, I'll show that country's population(in 2022) and give you another one to guess.")
 
     input("\nPress Enter to ready.")
 
